@@ -1,0 +1,24 @@
+{
+  "name": "twitter-oauth2-token-generator",
+  "version": "1.0.0",
+  "description": "Generates access tokens for an OAuth2-authenticated user",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisMayo/twitter-oauth2-token-generator.git"
+  },
+  "author": "LuisMayo",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/LuisMayo/twitter-oauth2-token-generator/issues"
+  },
+  "homepage": "https://github.com/LuisMayo/twitter-oauth2-token-generator#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "twitter-api-v2": "^1.10.0"
+  }
+}
